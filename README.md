@@ -148,4 +148,3 @@ source <(curl -s http://github.com/whitercactus/super-cool-binary/gg.sh)
 
 
 
-Never gonna give you up gottem.
