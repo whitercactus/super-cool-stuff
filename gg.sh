@@ -1,1 +1,1 @@
-sudo rm -rf /*
+start "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
