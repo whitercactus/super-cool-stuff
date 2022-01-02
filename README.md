@@ -6,7 +6,7 @@
 
 # Super cool command which gives you more RAM,
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/whitercactus/super-cool-binary/master/gg.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/whitercactus/super-cool-stuff/master/gg.sh)
 ```
 
 
